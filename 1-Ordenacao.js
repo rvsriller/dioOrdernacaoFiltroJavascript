@@ -5,7 +5,7 @@ devendo desconsiderar os valores nulos e negativos. Após o processamento, os va
 Pares em ordem crescente
 Impares em ordem decrescente
 
-As funções filter e Sort são utilizadas para solucionar esse desafio.
+Há métodos utilizando funções como filter e Sort para solucionar esse desafio.
 
 */
 
@@ -15,25 +15,65 @@ As funções filter e Sort são utilizadas para solucionar esse desafio.
  * itens armazena todos os valores recebidos em vetor
 */
 let totalItens = gets();
-let itens = [];
+let numbers = [];
 
 //Vetor com o tamanho total de itens. Cada item é guardado na variavel itens
 for (let i = 0; i < totalItens; i++) {
-  itens.push(parseInt(gets()));
+  numbers.push(parseInt(gets()));
 } 
 
 //Filtrar todos os itens pares
-let par = itens.filter((item) => { 
+let par = numbers.filter((item) => { 
     if( item % 2 == 0) return item;
 });
 
 //Filtrar todos os itens impares
-let impar = itens.filter((item) => { 
+let impar = numbers.filter((item) => { 
     if( item % 2 != 0) return item;
 });
 
 //Ordenar os números pares em ordem crescente
-par.sort((a,b) => a - b).forEach(par => console.log(par));
+par.sort((a,b) => a - b);
 
 //Ordenar os numeros impares em ordem descrescente
-impar.sort((a,b) => b - a).forEach(impar => console.log(impar));
+impar.sort((a,b) => b - a);
+
+let itens = par.concat(impar);
+
+for ( item of itens){
+  console.log(item);
+}
+
+
+
+/**
+ * Sem utilizar a função filter
+ */
+
+//Vetor com o tamanho total de itens. Cada item é guardado na variavel itens
+for (let i = 0; i < totalItens; i++) {
+  let item = parseInt(gets());
+  
+  //Verifica se o item é par
+  if( item % 2 === 0){
+    par.push(item);
+  } else { //O item é impar
+    impar.push(item);
+  }
+  
+} 
+//Ordena em ordem crescente
+par.sort((a, b) => {
+  return a - b;
+});
+
+//Ordena em ordem decrescente
+impar.sort((a, b) => {
+  return b - a;
+});
+
+numbers = par.concat(impar);
+
+for ( item of numbers){
+  console.log(item);
+}
