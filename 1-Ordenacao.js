@@ -11,6 +11,7 @@ Há métodos utilizando funções como filter e Sort para solucionar esse desafi
 
 
 /**
+ * Solução 1 - Utilizando a função Filter e Sort
  * totalItens armazena a quantidade de itens a serem verificados
  * itens armazena todos os valores recebidos em vetor
 */
@@ -47,7 +48,7 @@ for ( item of itens){
 
 
 /**
- * Sem utilizar a função filter
+ * Solução 2 - Sem utilizar a função filter
  */
 
 //Vetor com o tamanho total de itens. Cada item é guardado na variavel itens
@@ -72,8 +73,10 @@ impar.sort((a, b) => {
   return b - a;
 });
 
+//Adiciona todos os itens em uma variável
 numbers = par.concat(impar);
 
+//Exibe item por item da lista numbers, corretamente ordenados
 for ( item of numbers){
   console.log(item);
 }
