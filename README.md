@@ -4,7 +4,7 @@ Javascript Game Developer Bootcamp da Digital Innovation One
 
 As soluções dos desafios estão escritos na linguagem Javascript ES6, considerando algumas funções essenciais apresentadas anteriormente em algumas aulas.
 
-[Desafio 1](1-Ordenacao.js)
+[Desafio 1](1-NumerosOrdenacao.js)
 
 Filtro e Ordenação de números pares e ímpares
 
@@ -12,4 +12,4 @@ Esse algoritmo é responsável por ler uma quantidade de valores positivos como 
 
 Desafio solucionado utilizando funções do javascript como Push(), Filter() e Sort()
 
-[Desafio 2](2-.js)
+[Desafio 2](2-ListasOrdenadas.js)
