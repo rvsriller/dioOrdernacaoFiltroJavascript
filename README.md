@@ -4,6 +4,11 @@ Javascript Game Developer Bootcamp da Digital Innovation One
 
 As soluções dos desafios estão escritos na linguagem Javascript ES6, considerando algumas funções essenciais apresentadas anteriormente em algumas aulas.
 
+Entenda melhor o que esses métodos fazem:
+Método [split()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+Método [set()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set)
+Método [map()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map)
+
 [Desafio 1](1-NumerosOrdenacao.js)
 
 Filtro e Ordenação de números pares e ímpares
@@ -18,10 +23,10 @@ Filtro e Ordernação de listas com produtos de supermercado
 
 Esse algoritmo é responsável por ler uma quantidade de listas como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
 
-Entenda melhor o que esses métodos fazem:
-Método [split()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-Método [set()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set)
-[]
-Método [map()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map)
+Métodos utilizados: Split(), set(), map()
 
-[Desafio 3]()
+[Desafio 3](3-UniformesOrdenados.js)
+
+Filtro e Ordernação de lista com pedidos de uniformes de escola
+
+[Desafio 4]()
