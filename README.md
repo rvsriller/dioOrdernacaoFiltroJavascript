@@ -1,6 +1,6 @@
 # Desafios de Ordenação e Filtros em Javascript
 
-Javascript Game Developer Bootcamp da Digital Innovation One
+**Javascript Game Developer Bootcamp da Digital Innovation One**
 
 As soluções dos desafios estão escritos na linguagem Javascript ES6, considerando algumas funções essenciais apresentadas anteriormente em algumas aulas.
 
@@ -14,7 +14,7 @@ Entenda o funcionamento dos métodos utilizados para solucionar alguns desafios:
 
 ### [Desafio 1](1-NumerosOrdenacao.js)
 
-Filtro e Ordenação de números pares e ímpares
+**Filtro e Ordenação de números pares e ímpares**
 
 Esse algoritmo é responsável por ler uma quantidade de valores positivos como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
 
@@ -22,16 +22,16 @@ Desafio solucionado utilizando funções do javascript como Push(), Filter() e S
 
 ### [Desafio 2](2-ListasOrdenadas.js)
 
-Filtro e Ordernação de listas com produtos de supermercado
+**Filtro e Ordernação de listas com produtos de supermercado**
 Esse algoritmo é responsável por ler uma quantidade de listas como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
 
 Desafio solucionado utilizando funções do javascript como Split(), Set(), Map()
 
-[Desafio 3](3-UniformesOrdenados.js)
+### [Desafio 3](3-UniformesOrdenados.js)
 
-Filtro e Ordernação de lista com pedidos de uniformes escolares
+**Filtro e Ordernação de lista com pedidos de uniformes escolares**
 Esse algoritmo é responsável por ler uma quantidade de listas como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
 
 Desafio solucionado utilizando funções do javascript como Split(), Push(), Sort(), Map()
 
-[Desafio 4]()
+### [Desafio 4]()
