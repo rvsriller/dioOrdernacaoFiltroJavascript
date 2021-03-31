@@ -16,7 +16,7 @@ Entenda o funcionamento dos métodos utilizados para solucionar alguns desafios:
 
 Filtro e Ordenação de **números pares e ímpares**
 
-Esse algoritmo é responsável por ler uma quantidade de valores positivos como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
+<br/>Esse algoritmo é responsável por ler uma quantidade de valores positivos como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
 
 Desafio solucionado utilizando funções do javascript como Push(), Filter() e Sort()
 
@@ -25,7 +25,8 @@ Desafio solucionado utilizando funções do javascript como Push(), Filter() e S
 ### [Desafio 2](2-ListasOrdenadas.js)
 
 Filtro e Ordernação de listas com **produtos de supermercado**
-Esse algoritmo é responsável por ler uma quantidade de listas como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
+
+<br/>Esse algoritmo é responsável por ler uma quantidade de listas como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
 
 Desafio solucionado utilizando funções do javascript como Split(), Set(), Map()
 
@@ -34,7 +35,8 @@ Desafio solucionado utilizando funções do javascript como Split(), Set(), Map(
 ### [Desafio 3](3-UniformesOrdenados.js)
 
 Filtro e Ordernação de lista com **pedidos de uniformes escolares**
-Esse algoritmo é responsável por ler uma quantidade de listas como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
+
+<br/>Esse algoritmo é responsável por ler uma quantidade de listas como entrada. Os valores pares e ímpares são processados e ordenados. Os valores pares em ordem crescente e os valores ímpares em ordem decrescente.
 
 Desafio solucionado utilizando funções do javascript como Split(), Push(), Sort(), Map()
 
