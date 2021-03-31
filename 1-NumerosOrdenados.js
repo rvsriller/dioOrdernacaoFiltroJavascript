@@ -2,11 +2,10 @@
 Esse algoritmo é responsável por ler um número x de valores positivos como entrada, 
 devendo desconsiderar os valores nulos e negativos. Após o processamento, os valores pares e impares são ordenados.
 
-Pares em ordem crescente
-Impares em ordem decrescente
+- Pares em ordem crescente
+- Impares em ordem decrescente
 
 Há métodos utilizando funções como filter e Sort para solucionar esse desafio.
-
 */
 
 
