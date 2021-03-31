@@ -1,3 +1,5 @@
+/** Descrição do desafio */
+
 let pedidos = gets(); //Recebe quantidade de pedidos
 let estudantes = []; //Armazena informações de todos os estudantes separados por objetos
 
