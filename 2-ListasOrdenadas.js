@@ -12,7 +12,7 @@ Há métodos utilizando funções como Split, Set e Sort para solucionar esse de
 let numeroDeListas = parseInt(gets()); 
 
 /*
-*  Iteração de cada lista 
+*  Iteração de cada lista recebida
 *  Para cada lista, o metodo split gera um array com cada item da lista
 *  O metodo Set remove cada item repetido do array
 *  O metodo map ou sort ordena os elementos do array 
