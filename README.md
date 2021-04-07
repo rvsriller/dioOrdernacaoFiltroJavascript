@@ -9,6 +9,7 @@ Entenda o funcionamento dos métodos utilizados para solucionar alguns desafios:
 - [Split()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 - [Set()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set)
 - [Map()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map)
+- [Trim()]()
 
 <br/>
 
@@ -42,4 +43,6 @@ Desafio solucionado utilizando funções do javascript como Split(), Push(), Sor
 
 <br/><br/>
 
-### [Desafio 4]()
+### [Desafio 4](4-FilasDoBanco.js)
+
+Ordernação de senhas de clientes na **fila do banco**
