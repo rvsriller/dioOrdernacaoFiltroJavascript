@@ -1,4 +1,7 @@
-/** Descrição do desafio */
+/** Esse algoritmo é responsável por ler a quantidade de pedidos de
+    uniformes, ordenar esses uniformes por tamanho e cor e retornar 
+    o nome do estudante que fez o pedido e seu tamanho e cor do uniforme.    
+*/
 
 let pedidos = gets(); //Recebe quantidade de pedidos
 let estudantes = []; //Armazena informações de todos os estudantes separados por objetos
