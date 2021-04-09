@@ -2,6 +2,10 @@
 
 **Javascript Game Developer Bootcamp da Digital Innovation One**
 
+
+
+Nivel **Intermediário** | Tópicos sobre Estrutura de Dados
+
 As soluções dos desafios estão escritos na linguagem Javascript ES6, considerando algumas funções essenciais apresentadas anteriormente em algumas aulas.
 
 Entenda o funcionamento dos métodos utilizados para solucionar alguns desafios:
