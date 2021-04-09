@@ -50,3 +50,7 @@ Desafio solucionado utilizando funções do javascript como Split(), Push(), Sor
 ### [Desafio 4](4-FilasDoBanco.js)
 
 Ordernação de senhas de clientes na **fila do banco**
+
+Esse algoritmo é responsável por contar quantas senhas de uma fila de banco precisam ser ordenadas. A ordem de atendimento será decrescente: aqueles que receberam uma senha maior deverão ser atendidos primeiro. 
+
+Desafio solucionado utilizando funções do javascript como Split(), Sort() e Map()
