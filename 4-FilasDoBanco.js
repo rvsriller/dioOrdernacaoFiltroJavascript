@@ -55,7 +55,7 @@ for (let N = 1; N <= totalDeCasos; N++) {
 
 
 
-/*Comparando valores para pegar os não alterados
+/*Comparando valores para pegar os não alterados usando FOR
 for (let j = 0; j < totalDeClientes; j++) {
 
 };*/
