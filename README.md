@@ -2,8 +2,6 @@
 
 **Javascript Game Developer Bootcamp da Digital Innovation One**
 
-
-
 Nivel **Intermediário** | Tópicos sobre Estrutura de Dados
 
 As soluções dos desafios estão escritos na linguagem Javascript ES6, considerando algumas funções essenciais apresentadas anteriormente em algumas aulas.
@@ -51,6 +49,10 @@ Desafio solucionado utilizando funções do javascript como Split(), Push(), Sor
 
 Ordernação de senhas de clientes na **fila do banco**
 
-Esse algoritmo é responsável por contar quantas senhas de uma fila de banco precisam ser ordenadas. A ordem de atendimento será decrescente: aqueles que receberam uma senha maior deverão ser atendidos primeiro. 
+Esse algoritmo é responsável por contar quantas senhas de uma fila de banco precisam ser ordenadas. A ordem de atendimento será decrescente: aqueles que receberam uma senha maior deverão ser atendidos primeiro.
 
 Desafio solucionado utilizando funções do javascript como Split(), Sort() e Map()
+
+### [Desafio 5](5-GincanaEscolar.js)
+
+**Gincana** dos alunos durante férias escolar
