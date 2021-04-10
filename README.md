@@ -53,6 +53,8 @@ Esse algoritmo é responsável por contar quantas senhas de uma fila de banco pr
 
 Desafio solucionado utilizando funções do javascript como Split(), Sort() e Map()
 
+<br/><br/>
+
 ### [Desafio 5](5-GincanaEscolar.js)
 
 **Gincana** dos alunos durante férias escolar
