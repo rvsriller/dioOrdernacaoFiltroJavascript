@@ -56,3 +56,6 @@ Desafio solucionado utilizando funções do javascript como Split(), Sort() e Ma
 ### [Desafio 5](5-GincanaEscolar.js)
 
 **Gincana** dos alunos durante férias escolar
+
+Esse algoritmo separa grupos de alunos para participar da gincana. Inicia-se recebendo um valor N referente a quantidade
+de alunos que pertence a um círculo.
